@@ -27,7 +27,7 @@
 > hasher.py
 
 ## Tryhackme `Peak Hill` Room
-### Task 1 : Take a bite
+### Task 1 : Peak Hill
 > pickleuserpass.py
 
 ## Tryhackme `Psycho Break` Room
