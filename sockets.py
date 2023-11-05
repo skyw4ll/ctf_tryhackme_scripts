@@ -30,7 +30,7 @@ def assignData(data):
     return op, newNum, nextPort
 
 
-def Main():
+def main():
     serverIP = "10.10.241.144" #Get ip from user input
     serverPort = 1337
     oldNum = 0 #Start at 0 as per instruction
